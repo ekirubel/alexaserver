@@ -1,0 +1,24 @@
+{
+  "name": "alexa-server",
+  "version": "1.0.0",
+  "description": "simple alexa server",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekirubel/alexaserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekirubel/alexaserver/issues"
+  },
+  "homepage": "https://github.com/ekirubel/alexaserver#readme"
+}

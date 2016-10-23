@@ -1,0 +1,3 @@
+[submodule "apps/alexa-woes"]
+	path = apps/alexa-woes
+	url = https://github.com/ekirubel.alexa-woes.git
